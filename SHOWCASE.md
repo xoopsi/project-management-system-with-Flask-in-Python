@@ -1,6 +1,6 @@
 # نمایش ویدئو / Demo Video
 
-<!-- ====== Embed YouTube Video ====== -->
+<!-- ====== Embedded YouTube Video ====== -->
 <p align="center">
   <iframe width="800" height="450"
     src="https://www.youtube.com/embed/y-KVDm_EED4"
