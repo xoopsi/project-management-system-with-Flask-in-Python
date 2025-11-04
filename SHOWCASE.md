@@ -1,4 +1,13 @@
 # نمایش ویدئو / Demo Video
+
+<div style="text-align: center;">
+  <a href="https://youtu.be/y-KVDm_EED4">
+    <img src="https://img.youtube.com/vi/y-KVDm_EED4/hqdefault.jpg" alt="Demo Video" style="max-width:100%; height:auto;">
+  </a>
+</div>
+
+
+
 <div style="text-align: center;">
 [![Demo Video](https://img.youtube.com/vi/y-KVDm_EED4/hqdefault.jpg)](https://youtu.be/y-KVDm_EED4)
 </div>
