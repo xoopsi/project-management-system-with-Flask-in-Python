@@ -49,4 +49,6 @@ This web app demonstrates core project management features:
 ## Contact
 - Demo video: (paste link)
 - Repository: https://github.com/xoopsi/project-management-system-with-Flask-in-Python
-- Contact: (your email or LinkedIn)
+- Contact:
+-   E-mail  :  hadi.shirin@gmail.com
+-   Telegram : @mhshirin
