@@ -48,6 +48,6 @@
 ## تماس
 - ویدیوی دمو: (لینک ویدیو)
 - مخزن: https://github.com/xoopsi/project-management-system-with-Flask-in-Python
-- تماس:
+- تماس:  +989123455953
 - ایمیل : hadi.shirin@gmail.com
 - تلگرام : @mhshirin
