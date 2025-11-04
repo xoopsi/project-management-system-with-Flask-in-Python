@@ -5,7 +5,6 @@ This repository contains a short demo video and documentation describing the app
 
 ## Demo
 - Demo video: https://youtu.be/y-KVDm_EED4
-- Tip: For best UX host the video on YouTube (Unlisted) and embed the link here.
 
 ## Summary
 This web app demonstrates core project management features:
@@ -47,7 +46,7 @@ This web app demonstrates core project management features:
 - Monitor storage usage for `uploads/` if many documents are stored.
 
 ## Contact
-- Demo video: (paste link)
+- Demo video: https://youtu.be/y-KVDm_EED4
 - Repository: https://github.com/xoopsi/project-management-system-with-Flask-in-Python
 - Contact:
 -   E-mail  :  hadi.shirin@gmail.com
