@@ -1,6 +1,6 @@
 # نمایش ویدئو / Demo Video
 
-<div style="alignment: center;">
+<div style="align: center;">
   <a href="https://youtu.be/y-KVDm_EED4">
     <img src="https://img.youtube.com/vi/y-KVDm_EED4/hqdefault.jpg" alt="Demo Video" style="max-width:100%; height:auto;">
   </a>
