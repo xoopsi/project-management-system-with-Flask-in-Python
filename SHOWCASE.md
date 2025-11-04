@@ -1,7 +1,7 @@
 # نمایش ویدئو / Demo Video
-<p align="center">
+<div style="text-align: center;">
 [![Demo Video](https://img.youtube.com/vi/y-KVDm_EED4/hqdefault.jpg)](https://youtu.be/y-KVDm_EED4)
-</p>
+</div>
 
 
 ---
