@@ -4,7 +4,7 @@ A demo Project Management System implemented with Flask.
 This repository contains a short demo video and documentation describing the app architecture and main features.
 
 ## Demo
-- Demo video: (paste your demo link here — YouTube or GitHub Release)
+- Demo video: https://youtu.be/y-KVDm_EED4
 - Tip: For best UX host the video on YouTube (Unlisted) and embed the link here.
 
 ## Summary
