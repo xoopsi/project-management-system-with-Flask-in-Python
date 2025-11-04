@@ -48,5 +48,5 @@ This web app demonstrates core project management features:
 
 ## Contact
 - Demo video: (paste link)
-- Repository: [https://github.com/your-username/project-management-flask](https://github.com/xoopsi/project-management-system-with-Flask-in-Python)
+- Repository: https://github.com/xoopsi/project-management-system-with-Flask-in-Python
 - Contact: (your email or LinkedIn)
