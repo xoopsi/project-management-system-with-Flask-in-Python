@@ -47,6 +47,7 @@
 
 ## تماس
 - ویدیوی دمو: (لینک ویدیو)
-- مخزن: https://github.com/your-username/project-management-flask
-- تماس: (ایمیل یا لینکدین)
-
+- مخزن: https://github.com/xoopsi/project-management-system-with-Flask-in-Python
+- تماس:
+- ایمیل : hadi.shirin@gmail.com
+- تلگرام : @mhshirin
