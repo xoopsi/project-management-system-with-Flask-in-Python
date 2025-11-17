@@ -5,6 +5,7 @@ This repository contains a short demo video and documentation describing the app
 
 ## Demo
 - Demo video: https://youtu.be/y-KVDm_EED4
+- Second video  :  https://youtu.be/H1n_AXl4gL8
 
 ## Summary
 This web app demonstrates core project management features:
